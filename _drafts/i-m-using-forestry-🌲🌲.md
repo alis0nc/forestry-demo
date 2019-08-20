@@ -8,20 +8,4 @@ banner_image: "/uploads/2019/08/20/10-8.jpg"
 related_posts: []
 
 ---
-Forestry is "A Git-backed CMS for static sites built with 
-
-[@jekyllrb](https://twitter.com/jekyllrb)
-
-, 
-
-[@gohugoio](https://twitter.com/gohugoio)
-
-, 
-
-[@gatsbyjs](https://twitter.com/gatsbyjs)
-
- or 
-
-[@vuepress](https://twitter.com/vuepress)
-
-."
+Forestry is "A Git-backed CMS for static sites built with [@jekyllrb](https://twitter.com/jekyllrb), [@gohugoio](https://twitter.com/gohugoio), [@gatsbyjs](https://twitter.com/gatsbyjs) or [@vuepress](https://twitter.com/vuepress)."
